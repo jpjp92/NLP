@@ -3,4 +3,4 @@
 ## Study about NLP
 - Transformer
 - BERT
-- GPT2
+- GPT
